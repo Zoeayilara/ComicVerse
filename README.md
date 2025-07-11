@@ -37,8 +37,8 @@ git clone https://github.com/Zoeayilara/ComicVerse.git
 
 ## Authors
 👤 **Shaquille Ndunda**
-- GitHub: [@shaqdeff](https://github.com/Zoeayilara)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@zoeayilara](https://github.com/Zoeayilara)
+- LinkedIn: [Zoe Ayilara](https://www.linkedin.com/in/zoe-ayilara-b029a0318)
   
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
