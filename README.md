@@ -1,4 +1,4 @@
-# KomiKult
+# ComicVerse
 A comic characters list app that displays Marvel characters. It also allows you to add your comments and likes to a character. All data is preserved thanks to the external Marvel API.
 
 ## Built With
@@ -9,7 +9,7 @@ A comic characters list app that displays Marvel characters. It also allows you 
 - Webpack 
 
 ## Live Demo
-- Click [here](https://shaqdeff.github.io/KomiKult/) to view the live demo.
+- Click [here](https://zoeayilara.github.io/ComicVerse/) to view the live demo.
 
 ## Presentation Video
 - Here's a [video](https://www.loom.com/share/af0372bbe7704093b08f1c9e4006bc1c) presenting the project in more detail.
