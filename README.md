@@ -23,10 +23,10 @@ To get a local copy up and running follow these simple steps.
 - A text editor (e.g Visual Studio Code (recommended), Sublime Text, Atom etc.)
 
 ### Setup
-- With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/KomiKult/archive/refs/heads/develop.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- With git, clone the code to your machine
+-  Run the following [git](https://git-scm.com/) command to clone the files to your machine:
 ```
-git clone https://github.com/shaqdeff/KomiKult.git
+git clone https://github.com/Zoeayilara/ComicVerse.git
 ```
 - Once the files are on your machine, open the **KomiKult** folder in [Visual Studio Code](https://code.visualstudio.com/download).
 
@@ -37,11 +37,9 @@ git clone https://github.com/shaqdeff/KomiKult.git
 
 ## Authors
 👤 **Shaquille Ndunda**
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
+- GitHub: [@shaqdeff](https://github.com/Zoeayilara)
 - LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
-- 
-
+  
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
