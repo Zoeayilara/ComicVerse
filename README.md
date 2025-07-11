@@ -42,11 +42,6 @@ git clone https://github.com/shaqdeff/KomiKult.git
 - LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
 - 
 
-👤 **Mohammed Raad**
-- GitHub: [@MoRaad97](https://github.com/MoRaad97)
-- Twitter: [@MohammedRaadz](https://twitter.com/MohammedRaadz)
-- LinkedIn: [Mohammed Raad](linkedin.com/in/mohammed-raad-600176210)
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
